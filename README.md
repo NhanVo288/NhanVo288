@@ -3,9 +3,9 @@
 # Hello World!, I'm Nhan, a Vietnamese Web Developer 👋🏼:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhanvo&label=Profile%20views&color=0e75b6&style=flat" alt="nhanvo" /> </p>
-<div align="right">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWExNDJ4OGJlcXFyeGUyajB5anExM3drYXVteW1ocXhiMmhwcnM5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G6wIQZW9k82C9KDe7C/giphy.gif"  />
-</div>
+### 
+<img align= "right"height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWExNDJ4OGJlcXFyeGUyajB5anExM3drYXVteW1ocXhiMmhwcnM5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G6wIQZW9k82C9KDe7C/giphy.gif"  />
+### 
 
 ###
 # 💻 Tech Stack:
