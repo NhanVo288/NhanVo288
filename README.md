@@ -1,6 +1,9 @@
 <img src="github-header-image.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Nhan, a Vietnamese Web Developer 👋🏼:
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NhanVo288&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 ###
 
 <img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWExNDJ4OGJlcXFyeGUyajB5anExM3drYXVteW1ocXhiMmhwcnM5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G6wIQZW9k82C9KDe7C/giphy.gif"  />
@@ -33,11 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NhanVo288&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
 
 ###
